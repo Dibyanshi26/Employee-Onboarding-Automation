@@ -41,10 +41,11 @@ This project focuses on **automating the employee onboarding process** using Pow
 ## Screenshots
 
 1. **Power Automate Flow**  
-   *[Screenshot placeholder]*
+   ![Power Automate Flow](https://github.com/your-repo-link/power-automate-flow.png)
 
 2. **Power BI Dashboard**  
-   *[Screenshot placeholder]*
+   ![Power BI Dashboard](https://github.com/your-repo-link/power-bi-dashboard.png)
+
 
 ---
 
